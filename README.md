@@ -3,7 +3,7 @@ This project is to develop an app that can auto generate a workout for someone a
 
 Markup: [Future Objectives](#FutureObjectives "Goto Future-Objective")
 
-
+testings
 
 
 # Objectives
@@ -18,6 +18,85 @@ OUTPUT
 * Workout plan for one workout
     * Exercises, Sets, Reps, Temp, and rest time
     * Estimated workout time
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Future Objectives
 * Links to each exercise including a video
